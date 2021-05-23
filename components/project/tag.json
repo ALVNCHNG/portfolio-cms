@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_project_tags",
+  "info": {
+    "name": "technology",
+    "icon": "copy",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
